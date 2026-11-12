@@ -1,0 +1,473 @@
+{
+  "app_icon": {
+    "path": "app/app_icon.png",
+    "width": 1024,
+    "height": 1024
+  },
+  "bg_arena_main": {
+    "path": "bg/bg_arena_main.png",
+    "width": 1080,
+    "height": 1920
+  },
+  "bg_defeat": {
+    "path": "bg/bg_defeat.png",
+    "width": 1080,
+    "height": 1920
+  },
+  "bg_training_gym": {
+    "path": "bg/bg_training_gym.png",
+    "width": 1080,
+    "height": 1920
+  },
+  "bg_victory": {
+    "path": "bg/bg_victory.png",
+    "width": 1080,
+    "height": 1920
+  },
+  "boss_beckon": {
+    "path": "sheena/boss/boss_beckon.png",
+    "width": 830,
+    "height": 1280
+  },
+  "boss_beckon_2": {
+    "path": "sheena/boss/boss_beckon_2.png",
+    "width": 853,
+    "height": 1280
+  },
+  "boss_dazed": {
+    "path": "sheena/boss/boss_dazed.png",
+    "width": 843,
+    "height": 1280
+  },
+  "boss_dazed_2": {
+    "path": "sheena/boss/boss_dazed_2.png",
+    "width": 830,
+    "height": 1280
+  },
+  "boss_hit": {
+    "path": "sheena/boss/boss_hit.png",
+    "width": 875,
+    "height": 1280
+  },
+  "boss_hit_2": {
+    "path": "sheena/boss/boss_hit_2.png",
+    "width": 875,
+    "height": 1280
+  },
+  "boss_hit_3": {
+    "path": "sheena/boss/boss_hit_3.png",
+    "width": 874,
+    "height": 1280
+  },
+  "boss_hit_light": {
+    "path": "sheena/boss/boss_hit_light.png",
+    "width": 959,
+    "height": 1280
+  },
+  "boss_hit_light_2": {
+    "path": "sheena/boss/boss_hit_light_2.png",
+    "width": 960,
+    "height": 1280
+  },
+  "boss_hit_light_3": {
+    "path": "sheena/boss/boss_hit_light_3.png",
+    "width": 927,
+    "height": 1280
+  },
+  "boss_idle": {
+    "path": "sheena/boss/boss_idle.png",
+    "width": 934,
+    "height": 1280
+  },
+  "boss_idle_2": {
+    "path": "sheena/boss/boss_idle_2.png",
+    "width": 933,
+    "height": 1280
+  },
+  "boss_idle_3": {
+    "path": "sheena/boss/boss_idle_3.png",
+    "width": 889,
+    "height": 1280
+  },
+  "boss_kiss": {
+    "path": "sheena/boss/boss_kiss.png",
+    "width": 831,
+    "height": 1280
+  },
+  "boss_ko": {
+    "path": "sheena/boss/boss_ko.png",
+    "width": 866,
+    "height": 1280
+  },
+  "boss_ko_view": {
+    "path": "sheena/boss/boss_ko_view.png",
+    "width": 1080,
+    "height": 1920
+  },
+  "boss_laugh": {
+    "path": "sheena/boss/boss_laugh.png",
+    "width": 970,
+    "height": 1280
+  },
+  "boss_nails": {
+    "path": "sheena/boss/boss_nails.png",
+    "width": 832,
+    "height": 1280
+  },
+  "boss_slap": {
+    "path": "sheena/boss/boss_slap.png",
+    "width": 1060,
+    "height": 1280
+  },
+  "boss_slap_2": {
+    "path": "sheena/boss/boss_slap_2.png",
+    "width": 1090,
+    "height": 1280
+  },
+  "boss_slap_3": {
+    "path": "sheena/boss/boss_slap_3.png",
+    "width": 1060,
+    "height": 1280
+  },
+  "boss_slap_backhand": {
+    "path": "sheena/boss/boss_slap_backhand.png",
+    "width": 814,
+    "height": 1280
+  },
+  "boss_slap_flick": {
+    "path": "sheena/boss/boss_slap_flick.png",
+    "width": 846,
+    "height": 1280
+  },
+  "boss_slap_yawn": {
+    "path": "sheena/boss/boss_slap_yawn.png",
+    "width": 971,
+    "height": 1280
+  },
+  "boss_slap_yawn_2": {
+    "path": "sheena/boss/boss_slap_yawn_2.png",
+    "width": 1028,
+    "height": 832
+  },
+  "boss_victory": {
+    "path": "sheena/boss/boss_victory.png",
+    "width": 849,
+    "height": 1280
+  },
+  "boss_wave": {
+    "path": "sheena/boss/boss_wave.png",
+    "width": 988,
+    "height": 1280
+  },
+  "boss_windup_feint": {
+    "path": "sheena/boss/boss_windup_feint.png",
+    "width": 867,
+    "height": 1280
+  },
+  "boss_windup_feint_2": {
+    "path": "sheena/boss/boss_windup_feint_2.png",
+    "width": 870,
+    "height": 1280
+  },
+  "boss_windup_feint_3": {
+    "path": "sheena/boss/boss_windup_feint_3.png",
+    "width": 868,
+    "height": 1280
+  },
+  "boss_windup_power": {
+    "path": "sheena/boss/boss_windup_power.png",
+    "width": 1023,
+    "height": 1280
+  },
+  "boss_windup_power_2": {
+    "path": "sheena/boss/boss_windup_power_2.png",
+    "width": 1151,
+    "height": 1280
+  },
+  "boss_windup_power_3": {
+    "path": "sheena/boss/boss_windup_power_3.png",
+    "width": 1145,
+    "height": 1280
+  },
+  "boss_windup_snap": {
+    "path": "sheena/boss/boss_windup_snap.png",
+    "width": 998,
+    "height": 1280
+  },
+  "boss_windup_snap_2": {
+    "path": "sheena/boss/boss_windup_snap_2.png",
+    "width": 1031,
+    "height": 1280
+  },
+  "boss_windup_snap_3": {
+    "path": "sheena/boss/boss_windup_snap_3.png",
+    "width": 991,
+    "height": 1280
+  },
+  "boss_yawn": {
+    "path": "sheena/boss/boss_yawn.png",
+    "width": 826,
+    "height": 1280
+  },
+  "drill_pad": {
+    "path": "drills/drill_pad.png",
+    "width": 696,
+    "height": 1591,
+    "base": {
+      "centreX": 348,
+      "width": 602
+    }
+  },
+  "drill_pad_hit": {
+    "path": "drills/drill_pad_hit.png",
+    "width": 892,
+    "height": 1590,
+    "base": {
+      "centreX": 455,
+      "width": 602
+    }
+  },
+  "intro_01_arena": {
+    "path": "intro/intro_01_arena.png",
+    "width": 1080,
+    "height": 1920
+  },
+  "intro_02_windup": {
+    "path": "intro/intro_02_windup.png",
+    "width": 1080,
+    "height": 1920
+  },
+  "intro_03_impact": {
+    "path": "intro/intro_03_impact.png",
+    "width": 1080,
+    "height": 1920
+  },
+  "intro_04_wobble": {
+    "path": "intro/intro_04_wobble.png",
+    "width": 1080,
+    "height": 1920
+  },
+  "intro_05_smirk": {
+    "path": "intro/intro_05_smirk.png",
+    "width": 1080,
+    "height": 1920
+  },
+  "intro_06_kiss": {
+    "path": "intro/intro_06_kiss.png",
+    "width": 1080,
+    "height": 1920
+  },
+  "intro_07_stunned": {
+    "path": "intro/intro_07_stunned.png",
+    "width": 1080,
+    "height": 1920
+  },
+  "machine_idle": {
+    "path": "drills/machine_idle.png",
+    "width": 905,
+    "height": 1591,
+    "base": {
+      "centreX": 370.5,
+      "width": 731
+    }
+  },
+  "machine_swing": {
+    "path": "drills/machine_swing.png",
+    "width": 1024,
+    "height": 1506,
+    "base": {
+      "centreX": 358.5,
+      "width": 683
+    }
+  },
+  "map_road_finish": {
+    "path": "map/map_road_finish.png",
+    "width": 1080,
+    "height": 1920
+  },
+  "map_road_middle": {
+    "path": "map/map_road_middle.png",
+    "width": 1080,
+    "height": 1920
+  },
+  "map_road_start": {
+    "path": "map/map_road_start.png",
+    "width": 1080,
+    "height": 1920
+  },
+  "player_hand_idle": {
+    "path": "hand/player_hand_idle.png",
+    "width": 311,
+    "height": 514
+  },
+  "player_hand_slap": {
+    "path": "hand/player_hand_slap.png",
+    "width": 921,
+    "height": 1385
+  },
+  "player_hand_windup": {
+    "path": "hand/player_hand_windup.png",
+    "width": 332,
+    "height": 1044
+  },
+  "sheena_arm_far_fore": {
+    "path": "sheena/rig/sheena_arm_far_fore.png",
+    "width": 200,
+    "height": 286
+  },
+  "sheena_arm_far_upper": {
+    "path": "sheena/rig/sheena_arm_far_upper.png",
+    "width": 346,
+    "height": 744
+  },
+  "sheena_arm_far_upper_flag": {
+    "path": "sheena/rig/sheena_arm_far_upper_flag.png",
+    "width": 278,
+    "height": 688
+  },
+  "sheena_arm_near_fore": {
+    "path": "sheena/rig/sheena_arm_near_fore.png",
+    "width": 168,
+    "height": 306
+  },
+  "sheena_arm_near_upper": {
+    "path": "sheena/rig/sheena_arm_near_upper.png",
+    "width": 188,
+    "height": 414
+  },
+  "sheena_arm_near_upper_flag": {
+    "path": "sheena/rig/sheena_arm_near_upper_flag.png",
+    "width": 292,
+    "height": 686
+  },
+  "sheena_blink": {
+    "path": "sheena/rig/sheena_blink.png",
+    "width": 906,
+    "height": 220
+  },
+  "sheena_hand_far_relaxed": {
+    "path": "sheena/rig/sheena_hand_far_relaxed.png",
+    "width": 182,
+    "height": 300
+  },
+  "sheena_hand_near_relaxed": {
+    "path": "sheena/rig/sheena_hand_near_relaxed.png",
+    "width": 158,
+    "height": 290
+  },
+  "sheena_hand_near_slap": {
+    "path": "sheena/rig/sheena_hand_near_slap.png",
+    "width": 459,
+    "height": 1075
+  },
+  "sheena_head_dazed": {
+    "path": "sheena/rig/sheena_head_dazed.png",
+    "width": 978,
+    "height": 1170
+  },
+  "sheena_head_focus": {
+    "path": "sheena/rig/sheena_head_focus.png",
+    "width": 942,
+    "height": 1154
+  },
+  "sheena_head_impact": {
+    "path": "sheena/rig/sheena_head_impact.png",
+    "width": 1119,
+    "height": 1202
+  },
+  "sheena_head_kiss": {
+    "path": "sheena/rig/sheena_head_kiss.png",
+    "width": 989,
+    "height": 1175
+  },
+  "sheena_head_ko": {
+    "path": "sheena/rig/sheena_head_ko.png",
+    "width": 978,
+    "height": 1171
+  },
+  "sheena_head_smirk": {
+    "path": "sheena/rig/sheena_head_smirk.png",
+    "width": 942,
+    "height": 1154
+  },
+  "sheena_head_trash": {
+    "path": "sheena/rig/sheena_head_trash.png",
+    "width": 942,
+    "height": 1154
+  },
+  "sheena_head_victory": {
+    "path": "sheena/rig/sheena_head_victory.png",
+    "width": 1033,
+    "height": 1194
+  },
+  "sheena_head_wince": {
+    "path": "sheena/rig/sheena_head_wince.png",
+    "width": 941,
+    "height": 1154
+  },
+  "sheena_neck": {
+    "path": "sheena/rig/sheena_neck.png",
+    "width": 216,
+    "height": 206
+  },
+  "sheena_portrait": {
+    "path": "sheena/sheena_portrait.png",
+    "width": 1254,
+    "height": 1254
+  },
+  "sheena_torso": {
+    "path": "sheena/rig/sheena_torso.png",
+    "width": 774,
+    "height": 974
+  },
+  "sheena_torso_flag": {
+    "path": "sheena/rig/sheena_torso_flag.png",
+    "width": 694,
+    "height": 898
+  },
+  "ui_btn_gold": {
+    "path": "ui/ui_btn_gold.png",
+    "width": 1004,
+    "height": 192
+  },
+  "ui_btn_grey": {
+    "path": "ui/ui_btn_grey.png",
+    "width": 1000,
+    "height": 190
+  },
+  "ui_btn_red": {
+    "path": "ui/ui_btn_red.png",
+    "width": 996,
+    "height": 190
+  },
+  "ui_btn_round": {
+    "path": "ui/ui_btn_round.png",
+    "width": 260,
+    "height": 260
+  },
+  "ui_logo": {
+    "path": "ui/ui_logo.png",
+    "width": 1751,
+    "height": 860
+  },
+  "ui_meter_frame": {
+    "path": "ui/ui_meter_frame.png",
+    "width": 2084,
+    "height": 246
+  },
+  "ui_panel": {
+    "path": "ui/ui_panel.png",
+    "width": 1034,
+    "height": 364
+  },
+  "ui_podium": {
+    "path": "ui/ui_podium.png",
+    "width": 1090,
+    "height": 1334
+  },
+  "ui_tag": {
+    "path": "ui/ui_tag.png",
+    "width": 620,
+    "height": 156
+  }
+}
